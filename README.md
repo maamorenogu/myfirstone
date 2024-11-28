@@ -1,2 +1,2 @@
 # myfirstone
-Data Science Ecosystem my first repository for Data Science Tools 
+Data Science Ecosystem is my first repository for Data Science Tools 
